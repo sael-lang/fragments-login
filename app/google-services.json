@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "87798636852",
+    "project_id": "fexam-fafb0",
+    "storage_bucket": "fexam-fafb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87798636852:android:f0968cc362bff007d00561",
+        "android_client_info": {
+          "package_name": "com.example.fexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87798636852-q0b4ca39qmvggcer77h685qe5o676plv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJN6F_sa1rtTR2ALbfDx1-Jq91TM-IATE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87798636852-q0b4ca39qmvggcer77h685qe5o676plv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
